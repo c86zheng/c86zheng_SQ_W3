@@ -5,7 +5,7 @@
 - Move: A / D
 - Jump: W
 - Attack: F
-- Block: S / down
+- Block: S 
 
 **Player 2 Controls:**
 
